@@ -7,7 +7,7 @@ Defect inspection is paramount within the closed-loop manufacturing system. Howe
 <p align="center"> <img src="docs/pipeline.png" width="100%"> </p>
 
 For more details, please refer to:
-**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[Openreview-link](https://openreview.net/forum?id=RLhS1TrjK3)][[Project Page](https://defect-spectrum-authors.github.io/defect-spectrum/)][[Dataset](https://huggingface.co/datasets/Andyson/DefectSpectrum)]** <br />
+**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[Openreview-link](https://openreview.net/forum?id=RLhS1TrjK3)][[Project Page](https://defect-spectrum-authors.github.io/defect-spectrum/)][[Dataset](https://huggingface.co/datasets/DefectSpectrum/Defect_Spectrum)]** <br />
 
 
 
