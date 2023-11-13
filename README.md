@@ -8,7 +8,7 @@ Defect inspection is paramount within the closed-loop manufacturing system. Howe
 
 For more details, please refer to:
 **Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[Paper](https://arxiv.org/abs/2310.17316)][[Project Page](https://envision-research.github.io/Defect_Spectrum/)][[Dataset](https://huggingface.co/datasets/Andyson/DefectSpectrum)]** <br />
-Shuai Yang*, ZhiFei Chen*, Pengguang Chen, Xi Fang, Shu Liu, Yingcong Chen
+
 
 
 ## Installation
@@ -29,19 +29,6 @@ Shuai Yang*, ZhiFei Chen*, Pengguang Chen, Xi Fang, Shu Liu, Yingcong Chen
 4. Specify your defective types in `--num_defect`.
 2. Run inference with `sh inference.sh`.
 
-## Citation 
-If you find this project useful in your research, please consider citing:
-
-```
-@misc{yang2023defect,
-      title={Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics}, 
-      author={Shuai Yang and Zhifei Chen and Pengguang Chen and Xi Fang and Shu Liu and Yingcong Chen},
-      year={2023},
-      eprint={2310.17316},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
 ## Acknowledgement
 -  This work is built upon the [Guided-Diffusion](https://github.com/openai/guided-diffusion) and [SinDiffusion](https://github.com/weilunwang/sindiffusion).
 -  The datasets we adopted come from [Apple-Vision](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets), [MVTec-AD](https://www.mvtec.com/company/research/datasets/mvtec-ad), [DAGM-2007](https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html) and [Cotton](https://www.cottoninc.com/quality-products/textile-resources/fabric-defect-glossary/).
